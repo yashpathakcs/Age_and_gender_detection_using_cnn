@@ -1,0 +1,9 @@
+You need to have the following modules in your system before executing the file:
+
+Tensorflow-gpu
+Keras
+OpenCv
+Numpy
+Pandas
+Matplotlib
+Sci-kit learnS
