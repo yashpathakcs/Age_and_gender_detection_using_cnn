@@ -32,5 +32,5 @@ If you do not have a GPU use Google Colab or Kaggle or any other online platform
 * The GPU used to train the model is Kaggle's Nvidia K80.
 * The approximate time taken to train the model to 50 epochs was 2 hours.
 * Since the files are made on kaggle you might want to change the paths specified in the files, as per your device.
-* If you use the Anaconda Navigator, make a new environment and in that environment install ipykernal, tensorflow-gpu.
+* If you use the Anaconda Navigator, make a new environment and in that environment install ipykernal, tensorflow-gpu and the jupyter notebook.
 * You also need to download the CUDA toolkit and cudnn files in your system to use the GPU in jupyter notebook. Procedures can be found on the youtube.
