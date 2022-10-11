@@ -1,4 +1,4 @@
-# Aga_and_gender_detection_using_cnn
+# Age_and_gender_detection_using_cnn
  This is the Capstone Project done under the JOVAC program by the GLA University. 
 
 ## What does this project covers?
@@ -8,7 +8,7 @@
 
 ## How to run ?
 
-* Clone the repository to your device by using git clone ```https://github.com/yashpathakcs/Aga_and_gender_detection_using_cnn.git``` command.
+* Clone the repository to your device by using git clone ```https://github.com/yashpathakcs/Age_and_gender_detection_using_cnn.git``` command.
 * Download the required modules mentioned in the ``Requirements.txt`` file.
 * Run the ``Train.ipynb`` file.
 * Run the ``Predict.ipynb`` file and specify the path to your image in the file.
